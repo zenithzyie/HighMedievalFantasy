@@ -1,0 +1,42 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BPI_Interact" ExportPath="/Script/Engine.Blueprint'/Game/Blueprints/BPI_Interact.BPI_Interact'"
+   Begin Object Class=/Script/Engine.EdGraph Name="Interact" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact'"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact.K2Node_FunctionEntry_0'"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="Interact_MERGED" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact_MERGED'"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact_MERGED.K2Node_FunctionEntry_0'"
+      End Object
+   End Object
+   Begin Object Name="Interact" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact'"
+      Begin Object Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact.K2Node_FunctionEntry_0'"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Interact")
+         bIsEditable=True
+         NodeGuid=0ECAF48C4EC11A1463F89D95064347A7
+         CustomProperties Pin (PinId=4A40B0064EAD83F647D150B30958EA6D,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      Nodes(0)="/Script/BlueprintGraph.K2Node_FunctionEntry'K2Node_FunctionEntry_0'"
+      GraphGuid=37758E1341AF9251304A378CED71BE94
+   End Object
+   Begin Object Name="Interact_MERGED" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact_MERGED'"
+      Begin Object Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Interact.BPI_Interact:Interact_MERGED.K2Node_FunctionEntry_0'"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Interact")
+         bIsEditable=True
+         NodeGuid=0ECAF48C4EC11A1463F89D95064347A7
+         CustomProperties Pin (PinId=4A40B0064EAD83F647D150B30958EA6D,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      Nodes(0)="/Script/BlueprintGraph.K2Node_FunctionEntry'K2Node_FunctionEntry_0'"
+      GraphGuid=37758E1341AF9251304A378CED71BE94
+   End Object
+   ParentClass="/Script/CoreUObject.Class'/Script/CoreUObject.Interface'"
+   BlueprintType=BPTYPE_Interface
+   BlueprintSystemVersion=2
+   FunctionGraphs(0)="/Script/Engine.EdGraph'Interact'"
+   CategorySorting(0)=""
+   GeneratedClass="/Script/Engine.BlueprintGeneratedClass'BPI_Interact_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=63368C53443D4F5672C7D185C33E8592
+End Object

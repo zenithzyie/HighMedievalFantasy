@@ -1,0 +1,42 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BPI_Dialogue" ExportPath="/Script/Engine.Blueprint'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue'"
+   Begin Object Class=/Script/Engine.EdGraph Name="Talk" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk'"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk.K2Node_FunctionEntry_0'"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="Talk_MERGED" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk_MERGED'"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk_MERGED.K2Node_FunctionEntry_0'"
+      End Object
+   End Object
+   Begin Object Name="Talk" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk'"
+      Begin Object Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk.K2Node_FunctionEntry_0'"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Talk")
+         bIsEditable=True
+         NodeGuid=794FB7E64E21526BD483A28100AD8AD7
+         CustomProperties Pin (PinId=0DA7A22845D2C3ADA16B01AF1D6EDAAA,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      Nodes(0)="/Script/BlueprintGraph.K2Node_FunctionEntry'K2Node_FunctionEntry_0'"
+      GraphGuid=9BAF7BAA4ECC64CEF178ACBE7B583111
+   End Object
+   Begin Object Name="Talk_MERGED" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk_MERGED'"
+      Begin Object Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/Blueprints/BPI_Dialogue.BPI_Dialogue:Talk_MERGED.K2Node_FunctionEntry_0'"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="Talk")
+         bIsEditable=True
+         NodeGuid=794FB7E64E21526BD483A28100AD8AD7
+         CustomProperties Pin (PinId=0DA7A22845D2C3ADA16B01AF1D6EDAAA,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      Nodes(0)="/Script/BlueprintGraph.K2Node_FunctionEntry'K2Node_FunctionEntry_0'"
+      GraphGuid=9BAF7BAA4ECC64CEF178ACBE7B583111
+   End Object
+   ParentClass="/Script/CoreUObject.Class'/Script/CoreUObject.Interface'"
+   BlueprintType=BPTYPE_Interface
+   BlueprintSystemVersion=2
+   FunctionGraphs(0)="/Script/Engine.EdGraph'Talk'"
+   CategorySorting(0)=""
+   GeneratedClass="/Script/Engine.BlueprintGeneratedClass'BPI_Dialogue_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=05BEF65A4185B77B179532A6D3F42EBC
+End Object
