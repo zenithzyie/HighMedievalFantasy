@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e7dff1ba-165c-4e0a-9789-7d943f9d6bd5}">
+		<property name="name">
+			<value>Tavern Keeper Dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{92ebd110-a342-4a82-9faa-4dc819cbcca4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{92ebd110-a342-4a82-9faa-4dc819cbcca4}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Tavern Keeper</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

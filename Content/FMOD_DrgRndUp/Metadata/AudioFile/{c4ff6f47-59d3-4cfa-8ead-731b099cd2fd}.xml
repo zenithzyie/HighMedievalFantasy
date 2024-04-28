@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c4ff6f47-59d3-4cfa-8ead-731b099cd2fd}">
+		<property name="assetPath">
+			<value>40133__inchadney__sehusa-fest-medieval-crowd.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>131.19274376417235</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{24831295-fc56-4c9d-94f5-d9ee5bb2dedf}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b3f21c02-4d02-46c5-a7c2-3dfb8dea9576}">
+		<property name="name">
+			<value>Sounds</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fb5c0777-558c-4d04-97d9-8a4e1d4d4aa5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fb5c0777-558c-4d04-97d9-8a4e1d4d4aa5}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Roars</value>
+			<value>Wing flap</value>
+			<value>Growls</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

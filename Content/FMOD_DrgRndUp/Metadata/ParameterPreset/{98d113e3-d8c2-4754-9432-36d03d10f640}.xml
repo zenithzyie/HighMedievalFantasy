@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{98d113e3-d8c2-4754-9432-36d03d10f640}">
+		<property name="name">
+			<value>Wizard Dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{20a3a1c7-0c90-4d09-ab9a-7f33072e6d2a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{20a3a1c7-0c90-4d09-ab9a-7f33072e6d2a}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Wizard 1</value>
+			<value>Wizard 2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

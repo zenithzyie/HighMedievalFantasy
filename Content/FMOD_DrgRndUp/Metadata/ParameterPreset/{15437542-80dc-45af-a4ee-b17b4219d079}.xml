@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{15437542-80dc-45af-a4ee-b17b4219d079}">
+		<property name="name">
+			<value>Village Fool Dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b4dc611a-1caa-4eb8-b0ea-e4cedef37c4e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b4dc611a-1caa-4eb8-b0ea-e4cedef37c4e}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Village Fool</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
