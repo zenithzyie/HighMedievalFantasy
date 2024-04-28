@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{83de239e-e15c-4af2-a798-17cdf44abad0}">
+		<property name="name">
+			<value>oldterrain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6a5aa577-a640-4a6b-a923-53a90cb3430f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6a5aa577-a640-4a6b-a923-53a90cb3430f}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

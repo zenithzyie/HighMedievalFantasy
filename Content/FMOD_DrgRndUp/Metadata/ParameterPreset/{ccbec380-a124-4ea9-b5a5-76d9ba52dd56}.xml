@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ccbec380-a124-4ea9-b5a5-76d9ba52dd56}">
+		<property name="name">
+			<value>Blacksmith Dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d4a72778-662e-47c7-a631-6b369052ef14}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d4a72778-662e-47c7-a631-6b369052ef14}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Blacksmith</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

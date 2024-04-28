@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b33d2cf8-5e16-463f-9285-96be6c83b4b7}">
+		<property name="name">
+			<value>Farmer Dialogue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{374a7b68-e883-46ac-bd88-b04d0d0424de}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{374a7b68-e883-46ac-bd88-b04d0d0424de}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Farmer</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
